@@ -1,0 +1,18 @@
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
+
+# Output objects
+output-vmware-iso/
+
+# For built ovf
+*.vmdk
+*.mf
+*.ovf
+
+# Other
+id_rsa
+id_rsa.pub
+authorized_keys
